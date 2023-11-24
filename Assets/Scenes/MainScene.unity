@@ -1376,6 +1376,10 @@ PrefabInstance:
       propertyPath: m_BlocksRaycasts
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7000420883360525140, guid: 4438d5b587bce304d9867f5f690c5d94, type: 3}
+      propertyPath: m_text
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7581646942446534781, guid: 4438d5b587bce304d9867f5f690c5d94, type: 3}
       propertyPath: m_Name
       value: MoneyCanvas
